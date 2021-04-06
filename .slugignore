@@ -2,6 +2,8 @@
 *.npy
 *.pkl
 *.ipynb
+*.md
 /images
 /uploads
 /.ipynb_checkpoints
+/.gitattributes
