@@ -4,3 +4,4 @@
 *.ipynb
 /images
 /uploads
+/.ipynb_checkpoints
