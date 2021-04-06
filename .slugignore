@@ -1,1 +1,6 @@
 *.h5
+*.npy
+*.pkl
+*.ipynb
+/images
+/uploads
